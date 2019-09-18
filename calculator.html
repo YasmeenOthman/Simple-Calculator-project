@@ -26,7 +26,7 @@
 			<button class = "keys1" id="btn4">4</button>
 			<button class = "keys1" id="btn5">5</button>
 			<button class = "keys1" id="btn6">6</button>
-			<button class = "keys1" id="multOpr">*</button>
+			<button class = "keys1" id="multOpr" >*</button>
 		</div>
 		
 		<div class = "keys">
@@ -45,7 +45,8 @@
 	</div>
 <script type="text/javascript">
 	$('#btn1').on('click',function(){
-	var pressedValue = this.text();
+	var pressedValue = this.html();
+	$('.result').html("pressedValue");
 })
 </script>
 </body>

@@ -37,3 +37,18 @@ h2{
 	padding: 18px;
 	border-radius: 50%;
 }
+#multOpr{
+	background-color:  #ff4d4d;
+}
+#addOpr{
+	background-color:  #ff4d4d;
+}
+/*#eqOpr{
+	background-color: #660000;
+}*/
+#subOpr{
+	background-color:  #ff4d4d;
+}
+#divOpr{
+	background-color:  #ff4d4d;
+}
