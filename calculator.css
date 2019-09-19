@@ -4,59 +4,61 @@ body{
 }
 #calculator{
 	 border: 1px solid black;
-	 padding:3%;
+	 padding:2%;
 	 background-color:#3d5c5c;
 	 width:250px;
 	 margin-left:200px;
 	 margin-top: 100px;
 }
-h2{
-	font-family: monospace;
-	display: flex;
-	justify-content: center;	
-}
+
 .result{
 	text-align: right;
-  	padding-right: 20px;
-  	padding-left: 10px;
   	background-color:black;
   	color:white;
   	height:50px;
-  	font-size: 14px;
+  	width: 190px;
+  	font-size: 20px;
 }
 .keys{
-	
-	display: flex;
-	justify-content: center;
  	color: white;
+ 	font-size: 18px;
  	padding:.5px;
 	text-align: center;
-	font-size: 40px;
-	margin: 4px 2px;	
+	display: inline-block;
+  	font-size: 16px;
+	margin: 5px 18px;	
 }
 .keys1{
 	padding: 18px;
-	border-radius: 50%;
+	border-radius: 25%;
+	border-style: groove;
 }
 .keys2{
-	padding: 18px;
+	padding: 15px;
 	border-radius: 50%;
+	border-style: groove;
 }
 #multOpr{
 	background-color:  #ff4d4d;
+	border-style: groove;
 }
 #addOpr{
 	background-color:  #ff4d4d;
+	border-style: groove;
 }
 #eqOpr{
 	background-color: #ff4d4d;
+	border-style: groove;
 }
 #subOpr{
 	background-color:  #ff4d4d;
+	border-style: groove;
 }
 #divOpr{
 	background-color:  #ff4d4d;
+	border-style: groove;
 }
 #clearBtn{
 	background-color:  #ff4d4d;
+	border-style: groove;
 }
