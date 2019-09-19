@@ -30,19 +30,37 @@
 		</div>
 		
 		<div class = "keys">
-			<button class = "keys1" id="btn1" value="1"> 1 </button>
-			<button class = "keys1" id="btn2" value="2"> 2 </button>
-			<button class = "keys1" id="btn3"> 3 </button>
-			<button class = "keys1" id="addOpr"> + </button>
+			<button class = "keys1" id="btn1" value="1">1</button>
+			<button class = "keys1" id="btn2" value="2">2</button>
+			<button class = "keys1" id="btn3">3</button>
+			<button class = "keys1" id="addOpr">+</button>
 		</div>
 
 		<div class="keys">
-			<button class = "keys1" id="clearBtn">C</button>
+			<button class = "keys2" id="clearBtn">AC</button>
 			<button class = "keys1" id="btn0">0</button>
 			<button class = "keys1" id="eqOpr">=</button>
 			<button class = "keys1" value="-" id = "subOpr">-</button>
 		</div>
 	</div>
+    <script type="text/javascript">
+	 	var operation = '';
+		$('.keys1').on('click',function(){
+     		var pressedValue = $(this).text();
+    		if(pressedValue === '='){
+        		var result = eval(operation);
+        		operation += pressedValue;
+       			 operation += result;
+    		}else{
+        		operation += pressedValue;
+    		}
+    	$('.result').val(operation);
+		})
+		$('#clearBtn').on('click',function(){
+			$('.result').val('');
+			operation = '';
+    	})
 
+	</script>
 </body>
 </html>
