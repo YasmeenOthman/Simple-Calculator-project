@@ -23,7 +23,6 @@ h2{
   	color:white;
   	height:50px;
   	font-size: 14px;
-
 }
 .keys{
 	
@@ -36,6 +35,10 @@ h2{
 	margin: 4px 2px;	
 }
 .keys1{
+	padding: 18px;
+	border-radius: 50%;
+}
+.keys2{
 	padding: 18px;
 	border-radius: 50%;
 }
