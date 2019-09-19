@@ -1,13 +1,14 @@
 
 body{
-	background-image: url("calculator.jpg");
+	background-image: url("calculators.jpg");
 }
 #calculator{
 	 border: 1px solid black;
 	 padding:3%;
 	 background-color:#3d5c5c;
 	 width:250px;
-	  margin-left:500px;
+	 margin-left:200px;
+	 margin-top: 100px;
 }
 h2{
 	font-family: monospace;
@@ -19,8 +20,9 @@ h2{
   	padding-right: 20px;
   	padding-left: 10px;
   	background-color:black;
-  	font-color:white;
+  	color:white;
   	height:50px;
+  	font-size: 14px;
 
 }
 .keys{
@@ -30,7 +32,7 @@ h2{
  	color: white;
  	padding:.5px;
 	text-align: center;
-	font-size: 16px;
+	font-size: 40px;
 	margin: 4px 2px;	
 }
 .keys1{
@@ -43,12 +45,15 @@ h2{
 #addOpr{
 	background-color:  #ff4d4d;
 }
-/*#eqOpr{
-	background-color: #660000;
-}*/
+#eqOpr{
+	background-color: #ff4d4d;
+}
 #subOpr{
 	background-color:  #ff4d4d;
 }
 #divOpr{
+	background-color:  #ff4d4d;
+}
+#clearBtn{
 	background-color:  #ff4d4d;
 }

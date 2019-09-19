@@ -11,7 +11,7 @@
 	
 </head>
 <body >
-	<h2> simple calculator</h2>
+	<!-- <h2> simple calculator</h2> -->
 	<div id="calculator">
 		<div class = "keys">
 			<input  name="text" class ="result">
@@ -30,8 +30,8 @@
 		</div>
 		
 		<div class = "keys">
-			<button class = "keys1" id="btn1"> 1 </button>
-			<button class = "keys1" id="btn2"> 2 </button>
+			<button class = "keys1" id="btn1" value="1"> 1 </button>
+			<button class = "keys1" id="btn2" value="2"> 2 </button>
 			<button class = "keys1" id="btn3"> 3 </button>
 			<button class = "keys1" id="addOpr"> + </button>
 		</div>
@@ -40,14 +40,9 @@
 			<button class = "keys1" id="clearBtn">C</button>
 			<button class = "keys1" id="btn0">0</button>
 			<button class = "keys1" id="eqOpr">=</button>
-			<button class = "keys1" id = "subOpr">-</button>
+			<button class = "keys1" value="-" id = "subOpr">-</button>
 		</div>
 	</div>
-<script type="text/javascript">
-	$('#btn1').on('click',function(){
-	var pressedValue = this.html();
-	$('.result').html("pressedValue");
-})
-</script>
+
 </body>
 </html>
