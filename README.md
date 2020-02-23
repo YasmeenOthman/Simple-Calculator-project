@@ -11,8 +11,8 @@
 ```
 ## Table of contents:
 ```
- .Technologies
- .usage
+ -Technologies
+ -usage
 ```
 ### Technologies
 ```
