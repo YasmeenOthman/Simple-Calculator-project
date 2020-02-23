@@ -5,8 +5,8 @@
 simple calculator that used to implement simple calculations (multiplication, addition, subtraction and division). 
 
 ## Team:
-####. Maha Al-nabahin
-####. Yasmeen Othamn
+#### .Maha Al-nabahin
+#### .Yasmeen Othamn
 
 ## Table of contents:
 #### .Technologies
