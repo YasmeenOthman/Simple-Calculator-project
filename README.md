@@ -8,8 +8,8 @@ simple calculator that used to implement simple calculations (multiplication, ad
 ```
 ## Team:
 ```
-> .Maha Al-nabahin 
-> .Yasmeen Othamn
+ .Maha Al-nabahin 
+ .Yasmeen Othamn
 ```
 ## Table of contents:
 ```
@@ -22,6 +22,6 @@ simple calculator that used to implement simple calculations (multiplication, ad
  .HTML,CSS,jquery
 ```
 ## usage:
-```
-clone the repo to your machin then open the html file using your prowser.
-```
+
+> clone the repo to your machin then open the html file using your prowser.
+
