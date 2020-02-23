@@ -1,6 +1,7 @@
 # Project name:
+```
  ### Simple calculator
-
+```
 ## Description:
 simple calculator that used to implement simple calculations (multiplication, addition, subtraction and division). 
 
