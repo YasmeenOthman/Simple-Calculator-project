@@ -13,8 +13,8 @@ simple calculator that used to implement simple calculations (multiplication, ad
 .usage
 
 ## Technologies
-.JavaScript
-.HTML,CSS,jquery
+# .JavaScript
+# .HTML,CSS,jquery
 
 ## usage:
 clone the repo to your machin then open the html file using your prowser.
