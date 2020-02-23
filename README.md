@@ -10,10 +10,9 @@
  .Yasmeen Othamn
 ```
 ## Table of contents:
-```
  -Technologies
  -usage
-```
+ 
 ### Technologies
 ```
  .JavaScript
