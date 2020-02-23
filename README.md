@@ -10,7 +10,7 @@
 
 ## Table of contents:
 ### .Technologies
-### .usage
+    .usage
 
 ## Technologies
 ### .JavaScript
