@@ -1,11 +1,9 @@
 # Project name:
-```
-  Simple calculator
-```
+ > Simple calculator
+
 ## Description:
-```
-simple calculator that used to implement simple calculations (multiplication, addition, subtraction and division). 
-```
+> simple calculator that used to implement simple calculations (multiplication, addition, subtraction and division). 
+
 ## Team:
 ```
  .Maha Al-nabahin 
@@ -22,6 +20,5 @@ simple calculator that used to implement simple calculations (multiplication, ad
  .HTML,CSS,jquery
 ```
 ## usage:
-
 > clone the repo to your machin then open the html file using your prowser.
 
