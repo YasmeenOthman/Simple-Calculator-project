@@ -5,15 +5,15 @@
 simple calculator that used to implement simple calculations (multiplication, addition, subtraction and division). 
 
 ## Team:
-. Maha Al-nabahin
+### . Maha Al-nabahin
 . Yasmeen Othamn
 
 ## Table of contents:
-.Technologies
+### .Technologies
 .usage
 
 ## Technologies
-.JavaScript
+### .JavaScript
 .HTML,CSS,jquery
 
 ## usage:
