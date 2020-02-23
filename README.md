@@ -14,11 +14,11 @@
  .Technologies
  .usage
 ```
-## Technologies
+### Technologies
 ```
  .JavaScript
  .HTML,CSS,jquery
 ```
-## usage:
+### usage:
 > clone the repo to your machin then open the html file using your prowser.
 
